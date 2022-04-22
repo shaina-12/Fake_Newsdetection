@@ -1,2 +1,8 @@
-# Fake_Newsdetection
-I develop this project by using machine learning algorithm
+# Fake_News_Detection
+## Version 2
+### Authors:
+#### Anjali Gaur
+#### Shaina Mehta
+### Submitted To:
+#### Dr. Garima Agarwal
+## About the project:
